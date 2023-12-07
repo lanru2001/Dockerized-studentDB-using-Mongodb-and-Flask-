@@ -20,5 +20,3 @@ python3 app.py
 
 Navigate to `http://localhost:5000/` !
 
-
-Project source: https://earthly.dev/blog/mongodb-docker/
